@@ -1,1 +1,1 @@
-Deep Learning and Machine Learning in PyTorch
+Machine Learning in Python VS Deep Learning in PyTorch
